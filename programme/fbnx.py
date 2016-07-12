@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#斐波那契python实现：
 def fbnx(n):
     if n<0:
         return False
