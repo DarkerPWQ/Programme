@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#约瑟夫环Python实现
 def ysfh(ysfh_list,n):
     if len(ysfh_list)==1:
         return ysfh_list
